@@ -1,69 +1,79 @@
 {
-    "flowerslist": [
-      {
-        "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
-        "photo": "https://www.miraclegro.com/sites/g/files/oydgjc111/files/styles/scotts_asset_image_720_440/public/asset_images/main_021417_MJB_IMG_2241_718x404.jpg?itok=pbCu-Pt3",
-        "name": "Azalea"
-      },
-      {
-        "instructions": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flower_in_Horton_Plains_1.jpg",
-        "name": "Tibouchina Semidecandra"
-      },
-      {
-        "instructions": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
-        "photo": "https://www.bonsaiempire.com/images/02-Bougainvillea-bonsai-lorna-toledo.jpg",
-        "name": "Bonsai Tree"
-      },
-      {
-        "instructions": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
-        "photo": "https://search.shelmerdine.com/Content/Images/Photos/G700-01.jpg",
-        "name": "Calibrachoa Noa"
-      },
-      {
-        "instructions": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
-        "photo": "https://www.images.orchid-idea.com/product/500X500/i_3443288.jpg",
-        "name": "Phalaenopsis Purple"
-      },
-      {
-        "instructions": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
-        "photo": "https://gardenbeast-9fcd.kxcdn.com/wp-content/uploads/2020/03/color.jpg",
-        "name": "Dianthus"
-      },
-      {
-        "instructions": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
-        "photo": "https://www.almanac.com/sites/default/files/image_nodes/chrysanthemum-orange-4544730_1920.jpg",
-        "name": "Chrysanthemum"
-      },
-      {
-        "instructions": "Summer flowering, 12–18” high, likes full sun and well drained soil. Drought tolerant.",
-        "photo": "https://www.emerisa.com/sites/default/files/plant_images/ARMERIA%20alliacea-bloom-web.jpg",
-        "name": "Armeria Alliacea"
-      },
-      {
-        "instructions": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
-        "photo": "https://images.fineartamerica.com/images-medium-large/4-red-cactus-flower-jim-and-emily-bush.jpg",
-        "name": "Red Cactus"
-      },
-      {
-        "instructions": "Drought tolerant, well drained soil. Prefers full sun.",
-        "photo": "https://ibizaloe.com/wp-content/uploads/2021/05/flor-de-aloe-vera.jpg",
-        "name": "Aloe Vera"
-      },
-      {
-        "instructions": "Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schlumbergera_Buckleyi_Group.jpg/220px-Schlumbergera_Buckleyi_Group.jpg",
-        "name": "Schlumbergera"
-      },
-      {
-        "instructions": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
-        "photo": "https://i.pinimg.com/originals/96/08/a3/9608a30d60eee4afc82e0651fc343255.jpg",
-        "name": "Senecio Rowleyanus"
-      },
-      {
-        "instructions": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tree_Opuntia_%28Consolea_falcata%29_flowers_%2834913793494%29.jpg",
-        "name": "Opuntia Falcata"
-      }
-    ]
-  }
+  "flowerslist": [
+    {
+      "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+      "photo": "https://www.miraclegro.com/sites/g/files/oydgjc111/files/styles/scotts_asset_image_720_440/public/asset_images/main_021417_MJB_IMG_2241_718x404.jpg?itok=pbCu-Pt3",
+      "name": "Azalea"
+    },
+    {
+      "instructions": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flower_in_Horton_Plains_1.jpg",
+      "name": "Tibouchina Semidecandra"
+    },
+    {
+      "instructions": "Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.",
+      "photo": "https://www.gardeningknowhow.com/wp-content/uploads/2007/12/hibiscus.jpg",
+      "name": "Hibiscus"
+    },
+    {
+      "instructions": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+      "photo": "https://www.bonsaiempire.com/images/02-Bougainvillea-bonsai-lorna-toledo.jpg",
+      "name": "Bonsai Tree"
+    },
+    {
+      "instructions": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
+      "photo": "https://search.shelmerdine.com/Content/Images/Photos/G700-01.jpg",
+      "name": "Calibrachoa Noa"
+    },
+    {
+      "instructions": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
+      "photo": "https://www.images.orchid-idea.com/product/500X500/i_3443288.jpg",
+      "name": "Phalaenopsis Purple"
+    },
+    {
+      "instructions": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
+      "photo": "https://gardenbeast-9fcd.kxcdn.com/wp-content/uploads/2020/03/color.jpg",
+      "name": "Dianthus"
+    },
+    {
+      "instructions": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
+      "photo": "https://www.almanac.com/sites/default/files/image_nodes/chrysanthemum-orange-4544730_1920.jpg",
+      "name": "Chrysanthemum"
+    },
+    {
+      "instructions": "Summer flowering, 12–18” high, likes full sun and well drained soil. Drought tolerant.",
+      "photo": "https://www.emerisa.com/sites/default/files/plant_images/ARMERIA%20alliacea-bloom-web.jpg",
+      "name": "Armeria Alliacea"
+    },
+    {
+      "instructions": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
+      "photo": "https://images.fineartamerica.com/images-medium-large/4-red-cactus-flower-jim-and-emily-bush.jpg",
+      "name": "Red Cactus"
+    },
+    {
+      "instructions": "Drought tolerant, well drained soil. Prefers full sun.",
+      "photo": "https://ibizaloe.com/wp-content/uploads/2021/05/flor-de-aloe-vera.jpg",
+      "name": "Aloe Vera"
+    },
+    {
+      "instructions": "Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schlumbergera_Buckleyi_Group.jpg/220px-Schlumbergera_Buckleyi_Group.jpg",
+      "name": "Schlumbergera"
+    },
+    {
+      "instructions": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
+      "photo": "https://i.pinimg.com/originals/96/08/a3/9608a30d60eee4afc82e0651fc343255.jpg",
+      "name": "Senecio Rowleyanus"
+    },
+    {
+      "instructions": "Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.",
+      "photo": "https://img.plantsam.com/wp-content/uploads/2019/01/Echinocactus-grusonii.jpg",
+      "name": "Echinocactus Grusonii"
+    },
+    {
+      "instructions": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tree_Opuntia_%28Consolea_falcata%29_flowers_%2834913793494%29.jpg",
+      "name": "Opuntia Falcata"
+    }
+  ]
+}

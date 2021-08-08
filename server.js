@@ -14,6 +14,7 @@ const data = require('./data.json');
 const PORT = process.env.PORT;
 
 // http://localhost:3010/getFlowers
+// https://flowers-api-13.herokuapp.com/getFlowers
 server.get('/getFlowers',getFlowersHandler);
 server.get('*',notFoundHandler);
 
@@ -24,7 +25,7 @@ function getFlowersHandler(req,res)
 
 function notFoundHandler(req,res)
 {
-    res.send("Error : The route not found!");
+    res.send("Error : Page not found!");
 }
 
 server.listen(PORT,()=>{
